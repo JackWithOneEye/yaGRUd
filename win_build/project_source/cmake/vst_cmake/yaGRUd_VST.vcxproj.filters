@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\pluginbase.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\plugincore.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\plugingui.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\pluginparameter.cpp">
+      <Filter>PluginKernel</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\factory.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\customparameters.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\vst3plugin.cpp">
+      <Filter>VST3Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\customcontrols.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\customviews.cpp">
+      <Filter>CustomVSTGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.cpp">
+      <Filter>VST3SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\project_source\source\PluginObjects\fxobjects.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\guiconstants.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\pluginbase.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\plugincore.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\plugindescription.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\plugingui.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\pluginparameter.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\PluginKernel\pluginstructures.h">
+      <Filter>PluginKernel</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\customparameters.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\channelformats.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\vst_source\vst3plugin.h">
+      <Filter>VST3Core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\atomicops.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\customcontrols.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\readerwriterqueue.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\source\CustomControls\customviews.h">
+      <Filter>CustomVSTGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\sr-ho\Documents\ALL_SDK\VST_SDK\VST3_SDK\public.sdk\source\vst\vstsinglecomponenteffect.h">
+      <Filter>VST3SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\project_source\source\PluginObjects\fxobjects.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\cmake\vst_cmake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\resources\PluginGUI.uidesc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\sr-ho\Documents\ALL_SDK\myprojects\yaGRUd\project_source\win\vst\PluginGUIMain.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CustomVSTGUI">
+      <UniqueIdentifier>{34B0A4B5-7633-37A4-9A8A-251BCD36E7B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PluginKernel">
+      <UniqueIdentifier>{51C12196-5E4D-33AA-A193-B33922669AC6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4F93399-A1C4-3570-ADFC-4EB503F91BB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3Core">
+      <UniqueIdentifier>{26EC258A-8239-351D-8718-D5C16C005A5A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VST3SDK">
+      <UniqueIdentifier>{7830F094-E786-37B0-AED7-CD988E6861AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
